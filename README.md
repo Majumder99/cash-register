@@ -1,2 +1,2 @@
 # cash-register
-Simple case resgister project
+Simple case register project
